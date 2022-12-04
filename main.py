@@ -1,0 +1,22 @@
+from Hero import hero
+
+Alex = hero()
+
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.shoot()
+Alex.reload_current_weapon(1)
+Alex.shoot()
+Alex.reload_current_weapon(100)
+Alex.shoot()
+Alex.change_weapon()
+Alex.shoot()
+Alex.shoot()
